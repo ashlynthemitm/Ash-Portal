@@ -15,7 +15,7 @@ However, its significance extends beyond personal showcases. The website is desi
 
 ## Demo
 
-Demo? No need for a Demo, the site is live at: https://ashlynthemitm.github.io/
+Demo? No need for a Demo, the site is live at: https://www.ashlyncampbell.com/profile
 Thanks to GitHub Pages!
 
 ## Features
